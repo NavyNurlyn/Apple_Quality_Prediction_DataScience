@@ -67,9 +67,8 @@ A_id,Quality
 ...
 ```
 ## Ranking in Competition
-```
-Ranking #14 dari 95 Participant
+Ranking #14
+![Rank in Competition](leaderboard.png)
 
-```
 ## Citation
 Rendi Andria Gita Putra. PROJECT DSC 2024. [Kaggle Competition Link](https://kaggle.com/competitions/dsc-2024-temporary), 2024. Kaggle.
