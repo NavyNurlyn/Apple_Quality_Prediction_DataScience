@@ -58,7 +58,7 @@ Dataset terdiri dari beberapa file CSV:
 - `Quality` - Kualitas apel (label yang diprediksi).
 
 ## Submission Format
-File submisi harus memiliki header dan mengikuti format berikut:
+File submisi memiliki header dan mengikuti format berikut:
 ```
 A_id,Quality
 2800,good
@@ -66,26 +66,10 @@ A_id,Quality
 2802,bad
 ...
 ```
-Contoh file yang sesuai dapat dilihat pada `sample_submission.csv`.
+## Ranking in Competition
+```
+Ranking #14 dari 95 Participant
 
-## How to Run
-1. Clone repository ini:
-   ```bash
-   git clone https://github.com/username/project-dsc-2024.git
-   cd project-dsc-2024
-   ```
-2. Install dependensi yang diperlukan:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Jalankan notebook Jupyter untuk eksplorasi dan pelatihan model:
-   ```bash
-   jupyter notebook
-   ```
-4. Submit hasil prediksi:
-   ```bash
-   python submit.py
-   ```
-
+```
 ## Citation
 Rendi Andria Gita Putra. PROJECT DSC 2024. [Kaggle Competition Link](https://kaggle.com/competitions/dsc-2024-temporary), 2024. Kaggle.
