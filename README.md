@@ -1,6 +1,7 @@
 # Apple Quality Prediction using Machine Learning
 
 ## PROJECT Data Science Course ITS 2024
+![Apel Kualitas Baik dan Buruk]([https://example.com/path/gambar.jpg](https://st.depositphotos.com/1735158/2126/i/950/depositphotos_21264341-stock-photo-apple-spoiled-on-white-background.jpg))
 
 ## Overview
 PROJECT DSC 2024 adalah kompetisi Data Science yang diselenggarakan dalam rangka Data Science Course 2024 oleh HIMASTA-ITS. Kompetisi ini dilakukan di Kaggle dan berfokus pada pengembangan model machine learning untuk mengklasifikasikan kualitas apel berdasarkan berbagai fitur.
